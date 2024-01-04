@@ -1,0 +1,14 @@
+version: '2'
+
+services:
+  regis-srgame:
+    image: registry.rmutsv.app/panuwat.n/apache-php:5.5.9 
+    container_name: regis-srgame
+    restart: always
+    volumes:
+      - ./regis:/var/www/html
+      - ./score:/var/www/html/score
+      - ./apache2/log/:/var/log/apache2/
+    ports:
+      - "8999:80"
+    network_mode: bridge

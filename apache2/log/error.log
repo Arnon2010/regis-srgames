@@ -1,0 +1,44 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 19 11:15:05.235170 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.5.9 OpenSSL/1.0.1t configured -- resuming normal operations
+[Wed Oct 19 11:15:05.235667 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 16 04:09:22.963803 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.5.9 OpenSSL/1.0.1t configured -- resuming normal operations
+[Fri Dec 16 04:09:22.964335 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Dec 16 04:11:02.836486 2022] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 17 07:01:36.612409 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.5.9 OpenSSL/1.0.1t configured -- resuming normal operations
+[Sat Dec 17 07:01:36.612712 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Dec 22 02:09:15.602147 2022] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.8. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 08 05:10:58.959884 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.5.9 OpenSSL/1.0.1t configured -- resuming normal operations
+[Sun Jan 08 05:10:58.962720 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Jan 08 05:22:03.241186 2023] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.5. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 09 08:30:10.481789 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.5.9 OpenSSL/1.0.1t configured -- resuming normal operations
+[Mon Jan 09 08:30:10.482286 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jan 09 08:36:28.545719 2023] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.10. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 09 08:55:28.002171 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.5.9 OpenSSL/1.0.1t configured -- resuming normal operations
+[Thu Feb 09 08:55:28.002599 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.8. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 27 03:04:34.649942 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.5.9 OpenSSL/1.0.1t configured -- resuming normal operations
+[Mon Mar 27 03:04:34.652453 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.6. Set the 'ServerName' directive globally to suppress this message
+[Sun Apr 02 03:06:20.963482 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.5.9 OpenSSL/1.0.1t configured -- resuming normal operations
+[Sun Apr 02 03:06:20.963872 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.11. Set the 'ServerName' directive globally to suppress this message
+[Fri May 05 07:13:30.097628 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.5.9 OpenSSL/1.0.1t configured -- resuming normal operations
+[Fri May 05 07:13:30.098131 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.10. Set the 'ServerName' directive globally to suppress this message
+[Mon May 22 04:01:56.466139 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.5.9 OpenSSL/1.0.1t configured -- resuming normal operations
+[Mon May 22 04:01:56.469548 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 19 08:11:03.757107 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.5.9 OpenSSL/1.0.1t configured -- resuming normal operations
+[Wed Jul 19 08:11:03.757368 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.9. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 04 01:54:20.165691 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.5.9 OpenSSL/1.0.1t configured -- resuming normal operations
+[Thu Jan 04 01:54:20.166006 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Jan 04 03:49:04.228284 2024] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.9. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 04 10:56:07.650852 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.29 OpenSSL/1.0.1f configured -- resuming normal operations
+[Thu Jan 04 10:56:07.652490 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
